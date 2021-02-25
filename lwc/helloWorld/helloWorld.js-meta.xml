@@ -4,4 +4,10 @@
     <description>Hello World</description>
     <isExposed>true</isExposed>
     <masterLabel>Hello World</masterLabel>
+    <targets>
+        <target>lightning__AppPage</target>
+        <target>lightning__HomePage</target>
+        <target>lightning__RecordPage</target>
+        <target>lightningCommunity__Default</target>
+    </targets>
 </LightningComponentBundle>
